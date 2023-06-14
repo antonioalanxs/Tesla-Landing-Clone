@@ -29,7 +29,7 @@ Responsive Tesla Landing page Clone built using HTML, CSS, Tailwind CSS, JavaScr
 
 ## :movie_camera: Preview
 
-<!-- video -->
+https://github.com/antonioalanxs/Tesla-Landing-Clone/assets/79718376/aaf6b46b-17be-4f78-a814-3aa3d39125fe
 
 > https://tesla-landing-clone-tan.vercel.app
 
